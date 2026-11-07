@@ -1,0 +1,1800 @@
+{
+    "_generated": "from public/class_catalog.php + teacher/period_helpers.php of the legacy Elimu system",
+    "_warning": "GOLDEN FILE. Do not hand-edit. Regenerate only against the legacy source.",
+    "order": [
+        "Maternelle PS",
+        "Maternelle MS",
+        "Maternelle GS",
+        "1ère année primaire",
+        "2ème année primaire",
+        "3ème année primaire",
+        "4ème année primaire",
+        "5ème année primaire",
+        "6ème année primaire",
+        "7ème année EB",
+        "8ème année EB",
+        "1ère année SC",
+        "2ème année SC",
+        "3ème année SC",
+        "4ème année SC",
+        "1ère année HP",
+        "2ème année HP",
+        "3ème année HP",
+        "4ème année HP",
+        "1ère année LG",
+        "2ème année LG",
+        "3ème année LG",
+        "4ème année LG",
+        "1ère année LM",
+        "2ème année LM",
+        "3ème année LM",
+        "4ème année LM",
+        "1ère année HL",
+        "2ème année HL",
+        "3ème année HL",
+        "4ème année HL",
+        "1ère année PG",
+        "2ème année PG",
+        "3ème année PG",
+        "4ème année PG",
+        "1ère année PM",
+        "2ème année PM",
+        "3ème année PM",
+        "4ème année PM",
+        "1ère année PPS",
+        "2ème année PPS",
+        "3ème année PPS",
+        "4ème année PPS",
+        "1ère année PGCC",
+        "2ème année PGCC",
+        "1ère année CG",
+        "2ème année CG",
+        "3ème année CG",
+        "4ème année CG",
+        "1ère année IG",
+        "2ème année IG",
+        "3ème année IG",
+        "4ème année IG",
+        "1ère année SEC",
+        "2ème année SEC",
+        "3ème année SEC",
+        "4ème année SEC",
+        "1ère année HTS",
+        "2ème année HTS",
+        "3ème année HTS",
+        "4ème année HTS",
+        "1ère année CC",
+        "2ème année CC",
+        "3ème année CC",
+        "4ème année CC",
+        "1ère année COIF",
+        "2ème année COIF",
+        "3ème année COIF",
+        "4ème année COIF",
+        "1ère année HR",
+        "2ème année HR",
+        "3ème année HR",
+        "4ème année HR",
+        "1ère année HEB",
+        "2ème année HEB",
+        "3ème année HEB",
+        "4ème année HEB",
+        "1ère année Électricité",
+        "2ème année Électricité",
+        "3ème année Électricité",
+        "4ème année Électricité",
+        "1ère année ELT",
+        "2ème année ELT",
+        "3ème année ELT",
+        "4ème année ELT",
+        "1ère année Mécanique",
+        "2ème année Mécanique",
+        "3ème année Mécanique",
+        "4ème année Mécanique",
+        "1ère année MEN",
+        "2ème année MEN",
+        "3ème année MEN",
+        "4ème année MEN",
+        "1ère année HYD",
+        "2ème année HYD",
+        "3ème année HYD",
+        "4ème année HYD",
+        "1ère année CONST.",
+        "2ème année CONST.",
+        "3ème année CONST.",
+        "4ème année CONST.",
+        "1ère année AGRO",
+        "2ème année AGRO",
+        "3ème année AGRO",
+        "4ème année AGRO",
+        "1ère année IA",
+        "2ème année IA",
+        "3ème année IA",
+        "4ème année IA",
+        "1ère année FOR",
+        "2ème année FOR",
+        "3ème année FOR",
+        "4ème année FOR",
+        "1ère année PN",
+        "2ème année PN",
+        "3ème année PN",
+        "4ème année PN",
+        "1ère année VET",
+        "2ème année VET",
+        "3ème année VET",
+        "4ème année VET",
+        "1ère année INF",
+        "2ème année INF",
+        "3ème année INF",
+        "4ème année INF",
+        "1ère année NUTRITION",
+        "2ème année NUTRITION",
+        "3ème année NUTRITION",
+        "4ème année NUTRITION",
+        "1ère année AP",
+        "2ème année AP",
+        "3ème année AP",
+        "4ème année AP",
+        "1ère année MUS",
+        "2ème année MUS",
+        "3ème année MUS",
+        "4ème année MUS",
+        "1ère année EPS",
+        "2ème année EPS",
+        "3ème année EPS",
+        "4ème année EPS",
+        "1ère année Prof. Auto",
+        "2ème année Prof. Auto",
+        "3ème année Prof. Auto",
+        "1ère année Prof. Menuiserie",
+        "2ème année Prof. Menuiserie",
+        "3ème année Prof. Menuiserie"
+    ],
+    "map": {
+        "Maternelle": [
+            "Maternelle PS",
+            "Maternelle MS",
+            "Maternelle GS"
+        ],
+        "École Primaire": [
+            "1ère année primaire",
+            "2ème année primaire",
+            "3ème année primaire",
+            "4ème année primaire",
+            "5ème année primaire",
+            "6ème année primaire"
+        ],
+        "EB (Éducation de Base)": [
+            "7ème année EB",
+            "8ème année EB"
+        ],
+        "SC (Sciences - Math-Physique / Bio-Chimie)": [
+            "1ère année SC",
+            "2ème année SC",
+            "3ème année SC",
+            "4ème année SC"
+        ],
+        "HP (Humanités et Philosophie / Latin-Philo)": [
+            "1ère année HP",
+            "2ème année HP",
+            "3ème année HP",
+            "4ème année HP"
+        ],
+        "LG (Latin-Grec)": [
+            "1ère année LG",
+            "2ème année LG",
+            "3ème année LG",
+            "4ème année LG"
+        ],
+        "LM (Latin-Mathématiques)": [
+            "1ère année LM",
+            "2ème année LM",
+            "3ème année LM",
+            "4ème année LM"
+        ],
+        "HL (Humanités Littéraires)": [
+            "1ère année HL",
+            "2ème année HL",
+            "3ème année HL",
+            "4ème année HL"
+        ],
+        "PG (Pédagogie Générale)": [
+            "1ère année PG",
+            "2ème année PG",
+            "3ème année PG",
+            "4ème année PG"
+        ],
+        "PM (Pédagogie Maternelle)": [
+            "1ère année PM",
+            "2ème année PM",
+            "3ème année PM",
+            "4ème année PM"
+        ],
+        "PPS (Pédagogie Pré-Scolaire)": [
+            "1ère année PPS",
+            "2ème année PPS",
+            "3ème année PPS",
+            "4ème année PPS"
+        ],
+        "PGCC (Pédagogie Générale - Cycle Court)": [
+            "1ère année PGCC",
+            "2ème année PGCC"
+        ],
+        "CG (Commerciale et Gestion)": [
+            "1ère année CG",
+            "2ème année CG",
+            "3ème année CG",
+            "4ème année CG"
+        ],
+        "IG (Informatique de Gestion)": [
+            "1ère année IG",
+            "2ème année IG",
+            "3ème année IG",
+            "4ème année IG"
+        ],
+        "SEC (Secrétariat et Administration)": [
+            "1ère année SEC",
+            "2ème année SEC",
+            "3ème année SEC",
+            "4ème année SEC"
+        ],
+        "HTS (Techniques et Sociales)": [
+            "1ère année HTS",
+            "2ème année HTS",
+            "3ème année HTS",
+            "4ème année HTS"
+        ],
+        "CC (Coupe et Couture)": [
+            "1ère année CC",
+            "2ème année CC",
+            "3ème année CC",
+            "4ème année CC"
+        ],
+        "COIF (Coiffure)": [
+            "1ère année COIF",
+            "2ème année COIF",
+            "3ème année COIF",
+            "4ème année COIF"
+        ],
+        "HR (Hôtellerie et Restauration)": [
+            "1ère année HR",
+            "2ème année HR",
+            "3ème année HR",
+            "4ème année HR"
+        ],
+        "HEB (Technique d'Hébergement)": [
+            "1ère année HEB",
+            "2ème année HEB",
+            "3ème année HEB",
+            "4ème année HEB"
+        ],
+        "ELEC (Électricité Industrielle)": [
+            "1ère année Électricité",
+            "2ème année Électricité",
+            "3ème année Électricité",
+            "4ème année Électricité"
+        ],
+        "ELT (Électronique et Télécoms)": [
+            "1ère année ELT",
+            "2ème année ELT",
+            "3ème année ELT",
+            "4ème année ELT"
+        ],
+        "MEC (Mécanique Générale & Machines-Outils)": [
+            "1ère année Mécanique",
+            "2ème année Mécanique",
+            "3ème année Mécanique",
+            "4ème année Mécanique"
+        ],
+        "MEN (Menuiserie - Ébénisterie)": [
+            "1ère année MEN",
+            "2ème année MEN",
+            "3ème année MEN",
+            "4ème année MEN"
+        ],
+        "HYD (Hydro-Pneumatique)": [
+            "1ère année HYD",
+            "2ème année HYD",
+            "3ème année HYD",
+            "4ème année HYD"
+        ],
+        "CONST (Construction et BTP)": [
+            "1ère année CONST.",
+            "2ème année CONST.",
+            "3ème année CONST.",
+            "4ème année CONST."
+        ],
+        "AGRO (Agriculture Générale)": [
+            "1ère année AGRO",
+            "2ème année AGRO",
+            "3ème année AGRO",
+            "4ème année AGRO"
+        ],
+        "IA (Industries Agricoles)": [
+            "1ère année IA",
+            "2ème année IA",
+            "3ème année IA",
+            "4ème année IA"
+        ],
+        "FOR (Foresterie)": [
+            "1ère année FOR",
+            "2ème année FOR",
+            "3ème année FOR",
+            "4ème année FOR"
+        ],
+        "PN (Pêche et Navigation)": [
+            "1ère année PN",
+            "2ème année PN",
+            "3ème année PN",
+            "4ème année PN"
+        ],
+        "VET (Vétérinaire)": [
+            "1ère année VET",
+            "2ème année VET",
+            "3ème année VET",
+            "4ème année VET"
+        ],
+        "INF (Infirmerie Générale)": [
+            "1ère année INF",
+            "2ème année INF",
+            "3ème année INF",
+            "4ème année INF"
+        ],
+        "NUTRITION (Nutrition et Diététique)": [
+            "1ère année NUTRITION",
+            "2ème année NUTRITION",
+            "3ème année NUTRITION",
+            "4ème année NUTRITION"
+        ],
+        "AP (Arts Plastiques)": [
+            "1ère année AP",
+            "2ème année AP",
+            "3ème année AP",
+            "4ème année AP"
+        ],
+        "MUS (Musique)": [
+            "1ère année MUS",
+            "2ème année MUS",
+            "3ème année MUS",
+            "4ème année MUS"
+        ],
+        "EPS (Éducation Physique)": [
+            "1ère année EPS",
+            "2ème année EPS",
+            "3ème année EPS",
+            "4ème année EPS"
+        ],
+        "PROF (Cycle Court - Mécanique Auto)": [
+            "1ère année Prof. Auto",
+            "2ème année Prof. Auto",
+            "3ème année Prof. Auto"
+        ],
+        "PROF (Cycle Court - Menuiserie)": [
+            "1ère année Prof. Menuiserie",
+            "2ème année Prof. Menuiserie",
+            "3ème année Prof. Menuiserie"
+        ]
+    },
+    "labels": [
+        "Maternelle",
+        "École Primaire",
+        "EB (Éducation de Base)",
+        "SC (Sciences - Math-Physique / Bio-Chimie)",
+        "HP (Humanités et Philosophie / Latin-Philo)",
+        "LG (Latin-Grec)",
+        "LM (Latin-Mathématiques)",
+        "HL (Humanités Littéraires)",
+        "PG (Pédagogie Générale)",
+        "PM (Pédagogie Maternelle)",
+        "PPS (Pédagogie Pré-Scolaire)",
+        "PGCC (Pédagogie Générale - Cycle Court)",
+        "CG (Commerciale et Gestion)",
+        "IG (Informatique de Gestion)",
+        "SEC (Secrétariat et Administration)",
+        "HTS (Techniques et Sociales)",
+        "CC (Coupe et Couture)",
+        "COIF (Coiffure)",
+        "HR (Hôtellerie et Restauration)",
+        "HEB (Technique d'Hébergement)",
+        "ELEC (Électricité Industrielle)",
+        "ELT (Électronique et Télécoms)",
+        "MEC (Mécanique Générale & Machines-Outils)",
+        "MEN (Menuiserie - Ébénisterie)",
+        "HYD (Hydro-Pneumatique)",
+        "CONST (Construction et BTP)",
+        "AGRO (Agriculture Générale)",
+        "IA (Industries Agricoles)",
+        "FOR (Foresterie)",
+        "PN (Pêche et Navigation)",
+        "VET (Vétérinaire)",
+        "INF (Infirmerie Générale)",
+        "NUTRITION (Nutrition et Diététique)",
+        "AP (Arts Plastiques)",
+        "MUS (Musique)",
+        "EPS (Éducation Physique)",
+        "PROF (Cycle Court - Mécanique Auto)",
+        "PROF (Cycle Court - Menuiserie)"
+    ],
+    "shorts": [
+        "Maternelle",
+        "École Primaire",
+        "EB",
+        "SC",
+        "HP",
+        "LG",
+        "LM",
+        "HL",
+        "PG",
+        "PM",
+        "PPS",
+        "PGCC",
+        "CG",
+        "IG",
+        "SEC",
+        "HTS",
+        "CC",
+        "COIF",
+        "HR",
+        "HEB",
+        "ELEC",
+        "ELT",
+        "MEC",
+        "MEN",
+        "HYD",
+        "CONST",
+        "AGRO",
+        "IA",
+        "FOR",
+        "PN",
+        "VET",
+        "INF",
+        "NUTRITION",
+        "AP",
+        "MUS",
+        "EPS",
+        "PROF Auto",
+        "PROF Menuiserie"
+    ],
+    "patterns": [
+        "/maternelle/iu",
+        "/primaire/iu",
+        "/\\bEB\\b/u",
+        "/\\bSC\\b/u",
+        "/\\bHP\\b/u",
+        "/\\bLG\\b/u",
+        "/\\bLM\\b/u",
+        "/\\bHL\\b/u",
+        "/\\bPG\\b/u",
+        "/\\bPM\\b/u",
+        "/\\bPPS\\b/u",
+        "/\\bPGCC\\b/u",
+        "/\\bCG\\b/u",
+        "/\\bIG\\b/u",
+        "/\\bSEC\\b/u",
+        "/\\bHTS\\b/u",
+        "/\\bCC\\b/u",
+        "/\\bCOIF\\b/u",
+        "/\\bHR\\b/u",
+        "/\\bHEB\\b/u",
+        "/(?:[ÉE]lectricit|\\bElec\\b)/iu",
+        "/\\bELT\\b/u",
+        "/M[ée]canique/iu",
+        "/\\bMEN\\b/u",
+        "/\\bHYD\\b/u",
+        "/CONST/iu",
+        "/\\bAGRO\\b/u",
+        "/\\bIA\\b/u",
+        "/\\bFOR\\b/u",
+        "/\\bPN\\b/u",
+        "/\\bVET\\b/u",
+        "/\\bINF\\b/u",
+        "/NUTRITION/iu",
+        "/\\bAP\\b/u",
+        "/\\bMUS\\b/u",
+        "/\\bEPS\\b/u",
+        "/(?:Prof\\.?\\s*Auto|M[ée]c\\.\\s*Auto)/iu",
+        "/Menuiserie/iu"
+    ],
+    "perClass": {
+        "Maternelle PS": {
+            "label": "Petite Section (PS)",
+            "next": "Maternelle MS",
+            "grading": "trimester"
+        },
+        "Maternelle MS": {
+            "label": "Moyenne Section (MS)",
+            "next": "Maternelle GS",
+            "grading": "trimester"
+        },
+        "Maternelle GS": {
+            "label": "Grande Section (GS)",
+            "next": "1ère année primaire",
+            "grading": "trimester"
+        },
+        "1ère année primaire": {
+            "label": "1ère année primaire",
+            "next": "2ème année primaire",
+            "grading": "trimester"
+        },
+        "2ème année primaire": {
+            "label": "2ème année primaire",
+            "next": "3ème année primaire",
+            "grading": "trimester"
+        },
+        "3ème année primaire": {
+            "label": "3ème année primaire",
+            "next": "4ème année primaire",
+            "grading": "trimester"
+        },
+        "4ème année primaire": {
+            "label": "4ème année primaire",
+            "next": "5ème année primaire",
+            "grading": "trimester"
+        },
+        "5ème année primaire": {
+            "label": "5ème année primaire",
+            "next": "6ème année primaire",
+            "grading": "trimester"
+        },
+        "6ème année primaire": {
+            "label": "6ème année primaire",
+            "next": "7ème année EB",
+            "grading": "trimester"
+        },
+        "7ème année EB": {
+            "label": "7ème année EB",
+            "next": "8ème année EB",
+            "grading": "session"
+        },
+        "8ème année EB": {
+            "label": "8ème année EB",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année SC": {
+            "label": "1ère année SC",
+            "next": "2ème année SC",
+            "grading": "session"
+        },
+        "2ème année SC": {
+            "label": "2ème année SC",
+            "next": "3ème année SC",
+            "grading": "session"
+        },
+        "3ème année SC": {
+            "label": "3ème année SC",
+            "next": "4ème année SC",
+            "grading": "session"
+        },
+        "4ème année SC": {
+            "label": "4ème année SC",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HP": {
+            "label": "1ère année HP",
+            "next": "2ème année HP",
+            "grading": "session"
+        },
+        "2ème année HP": {
+            "label": "2ème année HP",
+            "next": "3ème année HP",
+            "grading": "session"
+        },
+        "3ème année HP": {
+            "label": "3ème année HP",
+            "next": "4ème année HP",
+            "grading": "session"
+        },
+        "4ème année HP": {
+            "label": "4ème année HP",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année LG": {
+            "label": "1ère année LG",
+            "next": "2ème année LG",
+            "grading": "session"
+        },
+        "2ème année LG": {
+            "label": "2ème année LG",
+            "next": "3ème année LG",
+            "grading": "session"
+        },
+        "3ème année LG": {
+            "label": "3ème année LG",
+            "next": "4ème année LG",
+            "grading": "session"
+        },
+        "4ème année LG": {
+            "label": "4ème année LG",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année LM": {
+            "label": "1ère année LM",
+            "next": "2ème année LM",
+            "grading": "session"
+        },
+        "2ème année LM": {
+            "label": "2ème année LM",
+            "next": "3ème année LM",
+            "grading": "session"
+        },
+        "3ème année LM": {
+            "label": "3ème année LM",
+            "next": "4ème année LM",
+            "grading": "session"
+        },
+        "4ème année LM": {
+            "label": "4ème année LM",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HL": {
+            "label": "1ère année HL",
+            "next": "2ème année HL",
+            "grading": "session"
+        },
+        "2ème année HL": {
+            "label": "2ème année HL",
+            "next": "3ème année HL",
+            "grading": "session"
+        },
+        "3ème année HL": {
+            "label": "3ème année HL",
+            "next": "4ème année HL",
+            "grading": "session"
+        },
+        "4ème année HL": {
+            "label": "4ème année HL",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année PG": {
+            "label": "1ère année PG",
+            "next": "2ème année PG",
+            "grading": "session"
+        },
+        "2ème année PG": {
+            "label": "2ème année PG",
+            "next": "3ème année PG",
+            "grading": "session"
+        },
+        "3ème année PG": {
+            "label": "3ème année PG",
+            "next": "4ème année PG",
+            "grading": "session"
+        },
+        "4ème année PG": {
+            "label": "4ème année PG",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année PM": {
+            "label": "1ère année PM",
+            "next": "2ème année PM",
+            "grading": "session"
+        },
+        "2ème année PM": {
+            "label": "2ème année PM",
+            "next": "3ème année PM",
+            "grading": "session"
+        },
+        "3ème année PM": {
+            "label": "3ème année PM",
+            "next": "4ème année PM",
+            "grading": "session"
+        },
+        "4ème année PM": {
+            "label": "4ème année PM",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année PPS": {
+            "label": "1ère année PPS",
+            "next": "2ème année PPS",
+            "grading": "session"
+        },
+        "2ème année PPS": {
+            "label": "2ème année PPS",
+            "next": "3ème année PPS",
+            "grading": "session"
+        },
+        "3ème année PPS": {
+            "label": "3ème année PPS",
+            "next": "4ème année PPS",
+            "grading": "session"
+        },
+        "4ème année PPS": {
+            "label": "4ème année PPS",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année PGCC": {
+            "label": "1ère année PGCC",
+            "next": "2ème année PGCC",
+            "grading": "session"
+        },
+        "2ème année PGCC": {
+            "label": "2ème année PGCC",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année CG": {
+            "label": "1ère année CG",
+            "next": "2ème année CG",
+            "grading": "session"
+        },
+        "2ème année CG": {
+            "label": "2ème année CG",
+            "next": "3ème année CG",
+            "grading": "session"
+        },
+        "3ème année CG": {
+            "label": "3ème année CG",
+            "next": "4ème année CG",
+            "grading": "session"
+        },
+        "4ème année CG": {
+            "label": "4ème année CG",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année IG": {
+            "label": "1ère année IG",
+            "next": "2ème année IG",
+            "grading": "session"
+        },
+        "2ème année IG": {
+            "label": "2ème année IG",
+            "next": "3ème année IG",
+            "grading": "session"
+        },
+        "3ème année IG": {
+            "label": "3ème année IG",
+            "next": "4ème année IG",
+            "grading": "session"
+        },
+        "4ème année IG": {
+            "label": "4ème année IG",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année SEC": {
+            "label": "1ère année SEC",
+            "next": "2ème année SEC",
+            "grading": "session"
+        },
+        "2ème année SEC": {
+            "label": "2ème année SEC",
+            "next": "3ème année SEC",
+            "grading": "session"
+        },
+        "3ème année SEC": {
+            "label": "3ème année SEC",
+            "next": "4ème année SEC",
+            "grading": "session"
+        },
+        "4ème année SEC": {
+            "label": "4ème année SEC",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HTS": {
+            "label": "1ère année HTS",
+            "next": "2ème année HTS",
+            "grading": "session"
+        },
+        "2ème année HTS": {
+            "label": "2ème année HTS",
+            "next": "3ème année HTS",
+            "grading": "session"
+        },
+        "3ème année HTS": {
+            "label": "3ème année HTS",
+            "next": "4ème année HTS",
+            "grading": "session"
+        },
+        "4ème année HTS": {
+            "label": "4ème année HTS",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année CC": {
+            "label": "1ère année CC",
+            "next": "2ème année CC",
+            "grading": "session"
+        },
+        "2ème année CC": {
+            "label": "2ème année CC",
+            "next": "3ème année CC",
+            "grading": "session"
+        },
+        "3ème année CC": {
+            "label": "3ème année CC",
+            "next": "4ème année CC",
+            "grading": "session"
+        },
+        "4ème année CC": {
+            "label": "4ème année CC",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année COIF": {
+            "label": "1ère année COIF",
+            "next": "2ème année COIF",
+            "grading": "session"
+        },
+        "2ème année COIF": {
+            "label": "2ème année COIF",
+            "next": "3ème année COIF",
+            "grading": "session"
+        },
+        "3ème année COIF": {
+            "label": "3ème année COIF",
+            "next": "4ème année COIF",
+            "grading": "session"
+        },
+        "4ème année COIF": {
+            "label": "4ème année COIF",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HR": {
+            "label": "1ère année HR",
+            "next": "2ème année HR",
+            "grading": "session"
+        },
+        "2ème année HR": {
+            "label": "2ème année HR",
+            "next": "3ème année HR",
+            "grading": "session"
+        },
+        "3ème année HR": {
+            "label": "3ème année HR",
+            "next": "4ème année HR",
+            "grading": "session"
+        },
+        "4ème année HR": {
+            "label": "4ème année HR",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HEB": {
+            "label": "1ère année HEB",
+            "next": "2ème année HEB",
+            "grading": "session"
+        },
+        "2ème année HEB": {
+            "label": "2ème année HEB",
+            "next": "3ème année HEB",
+            "grading": "session"
+        },
+        "3ème année HEB": {
+            "label": "3ème année HEB",
+            "next": "4ème année HEB",
+            "grading": "session"
+        },
+        "4ème année HEB": {
+            "label": "4ème année HEB",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Électricité": {
+            "label": "1ère année Électricité",
+            "next": "2ème année Électricité",
+            "grading": "session"
+        },
+        "2ème année Électricité": {
+            "label": "2ème année Électricité",
+            "next": "3ème année Électricité",
+            "grading": "session"
+        },
+        "3ème année Électricité": {
+            "label": "3ème année Électricité",
+            "next": "4ème année Électricité",
+            "grading": "session"
+        },
+        "4ème année Électricité": {
+            "label": "4ème année Électricité",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année ELT": {
+            "label": "1ère année ELT",
+            "next": "2ème année ELT",
+            "grading": "session"
+        },
+        "2ème année ELT": {
+            "label": "2ème année ELT",
+            "next": "3ème année ELT",
+            "grading": "session"
+        },
+        "3ème année ELT": {
+            "label": "3ème année ELT",
+            "next": "4ème année ELT",
+            "grading": "session"
+        },
+        "4ème année ELT": {
+            "label": "4ème année ELT",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Mécanique": {
+            "label": "1ère année Mécanique",
+            "next": "2ème année Mécanique",
+            "grading": "session"
+        },
+        "2ème année Mécanique": {
+            "label": "2ème année Mécanique",
+            "next": "3ème année Mécanique",
+            "grading": "session"
+        },
+        "3ème année Mécanique": {
+            "label": "3ème année Mécanique",
+            "next": "4ème année Mécanique",
+            "grading": "session"
+        },
+        "4ème année Mécanique": {
+            "label": "4ème année Mécanique",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année MEN": {
+            "label": "1ère année MEN",
+            "next": "2ème année MEN",
+            "grading": "session"
+        },
+        "2ème année MEN": {
+            "label": "2ème année MEN",
+            "next": "3ème année MEN",
+            "grading": "session"
+        },
+        "3ème année MEN": {
+            "label": "3ème année MEN",
+            "next": "4ème année MEN",
+            "grading": "session"
+        },
+        "4ème année MEN": {
+            "label": "4ème année MEN",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année HYD": {
+            "label": "1ère année HYD",
+            "next": "2ème année HYD",
+            "grading": "session"
+        },
+        "2ème année HYD": {
+            "label": "2ème année HYD",
+            "next": "3ème année HYD",
+            "grading": "session"
+        },
+        "3ème année HYD": {
+            "label": "3ème année HYD",
+            "next": "4ème année HYD",
+            "grading": "session"
+        },
+        "4ème année HYD": {
+            "label": "4ème année HYD",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année CONST.": {
+            "label": "1ère année CONST.",
+            "next": "2ème année CONST.",
+            "grading": "session"
+        },
+        "2ème année CONST.": {
+            "label": "2ème année CONST.",
+            "next": "3ème année CONST.",
+            "grading": "session"
+        },
+        "3ème année CONST.": {
+            "label": "3ème année CONST.",
+            "next": "4ème année CONST.",
+            "grading": "session"
+        },
+        "4ème année CONST.": {
+            "label": "4ème année CONST.",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année AGRO": {
+            "label": "1ère année AGRO",
+            "next": "2ème année AGRO",
+            "grading": "session"
+        },
+        "2ème année AGRO": {
+            "label": "2ème année AGRO",
+            "next": "3ème année AGRO",
+            "grading": "session"
+        },
+        "3ème année AGRO": {
+            "label": "3ème année AGRO",
+            "next": "4ème année AGRO",
+            "grading": "session"
+        },
+        "4ème année AGRO": {
+            "label": "4ème année AGRO",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année IA": {
+            "label": "1ère année IA",
+            "next": "2ème année IA",
+            "grading": "session"
+        },
+        "2ème année IA": {
+            "label": "2ème année IA",
+            "next": "3ème année IA",
+            "grading": "session"
+        },
+        "3ème année IA": {
+            "label": "3ème année IA",
+            "next": "4ème année IA",
+            "grading": "session"
+        },
+        "4ème année IA": {
+            "label": "4ème année IA",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année FOR": {
+            "label": "1ère année FOR",
+            "next": "2ème année FOR",
+            "grading": "session"
+        },
+        "2ème année FOR": {
+            "label": "2ème année FOR",
+            "next": "3ème année FOR",
+            "grading": "session"
+        },
+        "3ème année FOR": {
+            "label": "3ème année FOR",
+            "next": "4ème année FOR",
+            "grading": "session"
+        },
+        "4ème année FOR": {
+            "label": "4ème année FOR",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année PN": {
+            "label": "1ère année PN",
+            "next": "2ème année PN",
+            "grading": "session"
+        },
+        "2ème année PN": {
+            "label": "2ème année PN",
+            "next": "3ème année PN",
+            "grading": "session"
+        },
+        "3ème année PN": {
+            "label": "3ème année PN",
+            "next": "4ème année PN",
+            "grading": "session"
+        },
+        "4ème année PN": {
+            "label": "4ème année PN",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année VET": {
+            "label": "1ère année VET",
+            "next": "2ème année VET",
+            "grading": "session"
+        },
+        "2ème année VET": {
+            "label": "2ème année VET",
+            "next": "3ème année VET",
+            "grading": "session"
+        },
+        "3ème année VET": {
+            "label": "3ème année VET",
+            "next": "4ème année VET",
+            "grading": "session"
+        },
+        "4ème année VET": {
+            "label": "4ème année VET",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année INF": {
+            "label": "1ère année INF",
+            "next": "2ème année INF",
+            "grading": "session"
+        },
+        "2ème année INF": {
+            "label": "2ème année INF",
+            "next": "3ème année INF",
+            "grading": "session"
+        },
+        "3ème année INF": {
+            "label": "3ème année INF",
+            "next": "4ème année INF",
+            "grading": "session"
+        },
+        "4ème année INF": {
+            "label": "4ème année INF",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année NUTRITION": {
+            "label": "1ère année NUTRITION",
+            "next": "2ème année NUTRITION",
+            "grading": "session"
+        },
+        "2ème année NUTRITION": {
+            "label": "2ème année NUTRITION",
+            "next": "3ème année NUTRITION",
+            "grading": "session"
+        },
+        "3ème année NUTRITION": {
+            "label": "3ème année NUTRITION",
+            "next": "4ème année NUTRITION",
+            "grading": "session"
+        },
+        "4ème année NUTRITION": {
+            "label": "4ème année NUTRITION",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année AP": {
+            "label": "1ère année AP",
+            "next": "2ème année AP",
+            "grading": "session"
+        },
+        "2ème année AP": {
+            "label": "2ème année AP",
+            "next": "3ème année AP",
+            "grading": "session"
+        },
+        "3ème année AP": {
+            "label": "3ème année AP",
+            "next": "4ème année AP",
+            "grading": "session"
+        },
+        "4ème année AP": {
+            "label": "4ème année AP",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année MUS": {
+            "label": "1ère année MUS",
+            "next": "2ème année MUS",
+            "grading": "session"
+        },
+        "2ème année MUS": {
+            "label": "2ème année MUS",
+            "next": "3ème année MUS",
+            "grading": "session"
+        },
+        "3ème année MUS": {
+            "label": "3ème année MUS",
+            "next": "4ème année MUS",
+            "grading": "session"
+        },
+        "4ème année MUS": {
+            "label": "4ème année MUS",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année EPS": {
+            "label": "1ère année EPS",
+            "next": "2ème année EPS",
+            "grading": "session"
+        },
+        "2ème année EPS": {
+            "label": "2ème année EPS",
+            "next": "3ème année EPS",
+            "grading": "session"
+        },
+        "3ème année EPS": {
+            "label": "3ème année EPS",
+            "next": "4ème année EPS",
+            "grading": "session"
+        },
+        "4ème année EPS": {
+            "label": "4ème année EPS",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Prof. Auto": {
+            "label": "1ère année Méc. Auto",
+            "next": "2ème année Prof. Auto",
+            "grading": "session"
+        },
+        "2ème année Prof. Auto": {
+            "label": "2ème année Méc. Auto",
+            "next": "3ème année Prof. Auto",
+            "grading": "session"
+        },
+        "3ème année Prof. Auto": {
+            "label": "3ème année Méc. Auto",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Prof. Menuiserie": {
+            "label": "1ère année Menuiserie",
+            "next": "2ème année Prof. Menuiserie",
+            "grading": "session"
+        },
+        "2ème année Prof. Menuiserie": {
+            "label": "2ème année Menuiserie",
+            "next": "3ème année Prof. Menuiserie",
+            "grading": "session"
+        },
+        "3ème année Prof. Menuiserie": {
+            "label": "3ème année Menuiserie",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Electricité": {
+            "label": "1ère année Electricité",
+            "next": null,
+            "grading": "session"
+        },
+        "2ème année Elec": {
+            "label": "2ème année Elec",
+            "next": null,
+            "grading": "session"
+        },
+        "3ème année Mecanique": {
+            "label": "3ème année Mecanique",
+            "next": null,
+            "grading": "session"
+        },
+        "1ère année Méc. Auto": {
+            "label": "1ère année Méc. Auto",
+            "next": null,
+            "grading": "session"
+        },
+        "4ème année CONST": {
+            "label": "4ème année CONST",
+            "next": null,
+            "grading": "session"
+        },
+        "": {
+            "label": "",
+            "next": null,
+            "grading": "session"
+        },
+        "   ": {
+            "label": "   ",
+            "next": null,
+            "grading": "session"
+        },
+        "Unknown Class": {
+            "label": "Unknown Class",
+            "next": null,
+            "grading": "session"
+        },
+        "primaire": {
+            "label": "primaire",
+            "next": null,
+            "grading": "trimester"
+        },
+        "MATERNELLE": {
+            "label": "MATERNELLE",
+            "next": null,
+            "grading": "trimester"
+        }
+    },
+    "groupAll": {
+        "groups": [
+            {
+                "label": "Maternelle",
+                "classes": [
+                    "Maternelle GS",
+                    "Maternelle MS",
+                    "Maternelle PS"
+                ]
+            },
+            {
+                "label": "École Primaire",
+                "classes": [
+                    "1ère année primaire",
+                    "2ème année primaire",
+                    "3ème année primaire",
+                    "4ème année primaire",
+                    "5ème année primaire",
+                    "6ème année primaire"
+                ]
+            },
+            {
+                "label": "EB (Éducation de Base)",
+                "classes": [
+                    "7ème année EB",
+                    "8ème année EB"
+                ]
+            },
+            {
+                "label": "SC (Sciences - Math-Physique / Bio-Chimie)",
+                "classes": [
+                    "1ère année SC",
+                    "2ème année SC",
+                    "3ème année SC",
+                    "4ème année SC"
+                ]
+            },
+            {
+                "label": "HP (Humanités et Philosophie / Latin-Philo)",
+                "classes": [
+                    "1ère année HP",
+                    "2ème année HP",
+                    "3ème année HP",
+                    "4ème année HP"
+                ]
+            },
+            {
+                "label": "LG (Latin-Grec)",
+                "classes": [
+                    "1ère année LG",
+                    "2ème année LG",
+                    "3ème année LG",
+                    "4ème année LG"
+                ]
+            },
+            {
+                "label": "LM (Latin-Mathématiques)",
+                "classes": [
+                    "1ère année LM",
+                    "2ème année LM",
+                    "3ème année LM",
+                    "4ème année LM"
+                ]
+            },
+            {
+                "label": "HL (Humanités Littéraires)",
+                "classes": [
+                    "1ère année HL",
+                    "2ème année HL",
+                    "3ème année HL",
+                    "4ème année HL"
+                ]
+            },
+            {
+                "label": "PG (Pédagogie Générale)",
+                "classes": [
+                    "1ère année PG",
+                    "2ème année PG",
+                    "3ème année PG",
+                    "4ème année PG"
+                ]
+            },
+            {
+                "label": "PM (Pédagogie Maternelle)",
+                "classes": [
+                    "1ère année PM",
+                    "2ème année PM",
+                    "3ème année PM",
+                    "4ème année PM"
+                ]
+            },
+            {
+                "label": "PPS (Pédagogie Pré-Scolaire)",
+                "classes": [
+                    "1ère année PPS",
+                    "2ème année PPS",
+                    "3ème année PPS",
+                    "4ème année PPS"
+                ]
+            },
+            {
+                "label": "PGCC (Pédagogie Générale - Cycle Court)",
+                "classes": [
+                    "1ère année PGCC",
+                    "2ème année PGCC"
+                ]
+            },
+            {
+                "label": "CG (Commerciale et Gestion)",
+                "classes": [
+                    "1ère année CG",
+                    "2ème année CG",
+                    "3ème année CG",
+                    "4ème année CG"
+                ]
+            },
+            {
+                "label": "IG (Informatique de Gestion)",
+                "classes": [
+                    "1ère année IG",
+                    "2ème année IG",
+                    "3ème année IG",
+                    "4ème année IG"
+                ]
+            },
+            {
+                "label": "SEC (Secrétariat et Administration)",
+                "classes": [
+                    "1ère année SEC",
+                    "2ème année SEC",
+                    "3ème année SEC",
+                    "4ème année SEC"
+                ]
+            },
+            {
+                "label": "HTS (Techniques et Sociales)",
+                "classes": [
+                    "1ère année HTS",
+                    "2ème année HTS",
+                    "3ème année HTS",
+                    "4ème année HTS"
+                ]
+            },
+            {
+                "label": "CC (Coupe et Couture)",
+                "classes": [
+                    "1ère année CC",
+                    "2ème année CC",
+                    "3ème année CC",
+                    "4ème année CC"
+                ]
+            },
+            {
+                "label": "COIF (Coiffure)",
+                "classes": [
+                    "1ère année COIF",
+                    "2ème année COIF",
+                    "3ème année COIF",
+                    "4ème année COIF"
+                ]
+            },
+            {
+                "label": "HR (Hôtellerie et Restauration)",
+                "classes": [
+                    "1ère année HR",
+                    "2ème année HR",
+                    "3ème année HR",
+                    "4ème année HR"
+                ]
+            },
+            {
+                "label": "HEB (Technique d'Hébergement)",
+                "classes": [
+                    "1ère année HEB",
+                    "2ème année HEB",
+                    "3ème année HEB",
+                    "4ème année HEB"
+                ]
+            },
+            {
+                "label": "ELEC (Électricité Industrielle)",
+                "classes": [
+                    "1ère année Électricité",
+                    "2ème année Électricité",
+                    "3ème année Électricité",
+                    "4ème année Électricité"
+                ]
+            },
+            {
+                "label": "ELT (Électronique et Télécoms)",
+                "classes": [
+                    "1ère année ELT",
+                    "2ème année ELT",
+                    "3ème année ELT",
+                    "4ème année ELT"
+                ]
+            },
+            {
+                "label": "MEC (Mécanique Générale & Machines-Outils)",
+                "classes": [
+                    "1ère année Mécanique",
+                    "2ème année Mécanique",
+                    "3ème année Mécanique",
+                    "4ème année Mécanique"
+                ]
+            },
+            {
+                "label": "MEN (Menuiserie - Ébénisterie)",
+                "classes": [
+                    "1ère année MEN",
+                    "2ème année MEN",
+                    "3ème année MEN",
+                    "4ème année MEN"
+                ]
+            },
+            {
+                "label": "HYD (Hydro-Pneumatique)",
+                "classes": [
+                    "1ère année HYD",
+                    "2ème année HYD",
+                    "3ème année HYD",
+                    "4ème année HYD"
+                ]
+            },
+            {
+                "label": "CONST (Construction et BTP)",
+                "classes": [
+                    "1ère année CONST.",
+                    "2ème année CONST.",
+                    "3ème année CONST.",
+                    "4ème année CONST."
+                ]
+            },
+            {
+                "label": "AGRO (Agriculture Générale)",
+                "classes": [
+                    "1ère année AGRO",
+                    "2ème année AGRO",
+                    "3ème année AGRO",
+                    "4ème année AGRO"
+                ]
+            },
+            {
+                "label": "IA (Industries Agricoles)",
+                "classes": [
+                    "1ère année IA",
+                    "2ème année IA",
+                    "3ème année IA",
+                    "4ème année IA"
+                ]
+            },
+            {
+                "label": "FOR (Foresterie)",
+                "classes": [
+                    "1ère année FOR",
+                    "2ème année FOR",
+                    "3ème année FOR",
+                    "4ème année FOR"
+                ]
+            },
+            {
+                "label": "PN (Pêche et Navigation)",
+                "classes": [
+                    "1ère année PN",
+                    "2ème année PN",
+                    "3ème année PN",
+                    "4ème année PN"
+                ]
+            },
+            {
+                "label": "VET (Vétérinaire)",
+                "classes": [
+                    "1ère année VET",
+                    "2ème année VET",
+                    "3ème année VET",
+                    "4ème année VET"
+                ]
+            },
+            {
+                "label": "INF (Infirmerie Générale)",
+                "classes": [
+                    "1ère année INF",
+                    "2ème année INF",
+                    "3ème année INF",
+                    "4ème année INF"
+                ]
+            },
+            {
+                "label": "NUTRITION (Nutrition et Diététique)",
+                "classes": [
+                    "1ère année NUTRITION",
+                    "2ème année NUTRITION",
+                    "3ème année NUTRITION",
+                    "4ème année NUTRITION"
+                ]
+            },
+            {
+                "label": "AP (Arts Plastiques)",
+                "classes": [
+                    "1ère année AP",
+                    "2ème année AP",
+                    "3ème année AP",
+                    "4ème année AP"
+                ]
+            },
+            {
+                "label": "MUS (Musique)",
+                "classes": [
+                    "1ère année MUS",
+                    "2ème année MUS",
+                    "3ème année MUS",
+                    "4ème année MUS"
+                ]
+            },
+            {
+                "label": "EPS (Éducation Physique)",
+                "classes": [
+                    "1ère année EPS",
+                    "2ème année EPS",
+                    "3ème année EPS",
+                    "4ème année EPS"
+                ]
+            },
+            {
+                "label": "PROF (Cycle Court - Mécanique Auto)",
+                "classes": [
+                    "1ère année Prof. Auto",
+                    "2ème année Prof. Auto",
+                    "3ème année Prof. Auto"
+                ]
+            },
+            {
+                "label": "PROF (Cycle Court - Menuiserie)",
+                "classes": [
+                    "1ère année Prof. Menuiserie",
+                    "2ème année Prof. Menuiserie",
+                    "3ème année Prof. Menuiserie"
+                ]
+            }
+        ],
+        "ungrouped": []
+    },
+    "groupLegacySpellings": {
+        "groups": [
+            {
+                "label": "Maternelle",
+                "classes": [
+                    "Maternelle PS"
+                ]
+            },
+            {
+                "label": "École Primaire",
+                "classes": []
+            },
+            {
+                "label": "EB (Éducation de Base)",
+                "classes": [
+                    "7ème année EB"
+                ]
+            },
+            {
+                "label": "SC (Sciences - Math-Physique / Bio-Chimie)",
+                "classes": []
+            },
+            {
+                "label": "HP (Humanités et Philosophie / Latin-Philo)",
+                "classes": []
+            },
+            {
+                "label": "LG (Latin-Grec)",
+                "classes": []
+            },
+            {
+                "label": "LM (Latin-Mathématiques)",
+                "classes": []
+            },
+            {
+                "label": "HL (Humanités Littéraires)",
+                "classes": []
+            },
+            {
+                "label": "PG (Pédagogie Générale)",
+                "classes": []
+            },
+            {
+                "label": "PM (Pédagogie Maternelle)",
+                "classes": []
+            },
+            {
+                "label": "PPS (Pédagogie Pré-Scolaire)",
+                "classes": []
+            },
+            {
+                "label": "PGCC (Pédagogie Générale - Cycle Court)",
+                "classes": []
+            },
+            {
+                "label": "CG (Commerciale et Gestion)",
+                "classes": []
+            },
+            {
+                "label": "IG (Informatique de Gestion)",
+                "classes": []
+            },
+            {
+                "label": "SEC (Secrétariat et Administration)",
+                "classes": []
+            },
+            {
+                "label": "HTS (Techniques et Sociales)",
+                "classes": []
+            },
+            {
+                "label": "CC (Coupe et Couture)",
+                "classes": []
+            },
+            {
+                "label": "COIF (Coiffure)",
+                "classes": []
+            },
+            {
+                "label": "HR (Hôtellerie et Restauration)",
+                "classes": []
+            },
+            {
+                "label": "HEB (Technique d'Hébergement)",
+                "classes": []
+            },
+            {
+                "label": "ELEC (Électricité Industrielle)",
+                "classes": [
+                    "1ère année Electricité",
+                    "2ème année Elec"
+                ]
+            },
+            {
+                "label": "ELT (Électronique et Télécoms)",
+                "classes": []
+            },
+            {
+                "label": "MEC (Mécanique Générale & Machines-Outils)",
+                "classes": [
+                    "3ème année Mecanique"
+                ]
+            },
+            {
+                "label": "MEN (Menuiserie - Ébénisterie)",
+                "classes": []
+            },
+            {
+                "label": "HYD (Hydro-Pneumatique)",
+                "classes": []
+            },
+            {
+                "label": "CONST (Construction et BTP)",
+                "classes": [
+                    "4ème année CONST"
+                ]
+            },
+            {
+                "label": "AGRO (Agriculture Générale)",
+                "classes": []
+            },
+            {
+                "label": "IA (Industries Agricoles)",
+                "classes": []
+            },
+            {
+                "label": "FOR (Foresterie)",
+                "classes": []
+            },
+            {
+                "label": "PN (Pêche et Navigation)",
+                "classes": []
+            },
+            {
+                "label": "VET (Vétérinaire)",
+                "classes": []
+            },
+            {
+                "label": "INF (Infirmerie Générale)",
+                "classes": []
+            },
+            {
+                "label": "NUTRITION (Nutrition et Diététique)",
+                "classes": [
+                    "1ère année NUTRITION"
+                ]
+            },
+            {
+                "label": "AP (Arts Plastiques)",
+                "classes": []
+            },
+            {
+                "label": "MUS (Musique)",
+                "classes": []
+            },
+            {
+                "label": "EPS (Éducation Physique)",
+                "classes": []
+            },
+            {
+                "label": "PROF (Cycle Court - Mécanique Auto)",
+                "classes": [
+                    "1ère année Méc. Auto",
+                    "2ème année Prof. Auto"
+                ]
+            },
+            {
+                "label": "PROF (Cycle Court - Menuiserie)",
+                "classes": []
+            }
+        ],
+        "ungrouped": []
+    }
+}

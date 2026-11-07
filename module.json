@@ -1,0 +1,20 @@
+{
+    "name": "school-classes",
+    "version": "0.1.0",
+    "kernel": "^1.19.0",
+    "solves": "school.classes",
+    "type": "module",
+    "requires": [
+        "database.management",
+        "school.directory"
+    ],
+    "exposes": [
+        "Plugins\\SchoolClasses\\API\\Contracts\\SchoolClassesContract"
+    ],
+    "routes": [],
+    "emits": [],
+    "listens": [],
+    "files": [],
+    "documentation": "The class catalog (12 sections), classes, subjects, sub-subjects and teacher-to-class grants.",
+    "config": []
+}
