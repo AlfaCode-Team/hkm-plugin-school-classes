@@ -32,6 +32,8 @@ use Plugins\SchoolClasses\API\Enums\GradingSystem;
  * stored. They are pinned to the legacy behaviour by
  * `tests/Unit/ClassCatalogTest.php` against a golden fixture recorded from the
  * legacy source, because the legacy app cannot be run.
+ *
+ * @see docs/PORT.md in this repository for what is ported and what is not.
  */
 interface SchoolClassesContract
 {

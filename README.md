@@ -7,6 +7,8 @@ The class catalog (12 sections), classes, subjects, sub-subjects and teacher-to-
 
 ## Status
 
+> Full detail: [`docs/PORT.md`](docs/PORT.md).
+
 **The class catalogue is ported and verified. The stored half is not.**
 
 | Half | State |
